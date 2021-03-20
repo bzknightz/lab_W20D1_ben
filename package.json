@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "init": "^0.1.2"
+  },
+  "name": "lab_W20D1_ben",
+  "description": "Jason -Hello World!!!!1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bzknightz/lab_W20D1_ben.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bzknightz/lab_W20D1_ben/issues"
+  },
+  "homepage": "https://github.com/bzknightz/lab_W20D1_ben#readme"
+}
